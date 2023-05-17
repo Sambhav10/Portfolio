@@ -1,6 +1,5 @@
 It's a front end only portfolio website made with html. css which showcase the my different project and  journey of me as a Computer programming student.
-
-![image](https://github.com/Sambhav10/Portfolio/assets/85670420/e460f9b4-88f2-4dea-a50a-fc2bb19dff07)
-![image](https://github.com/Sambhav10/Portfolio/assets/85670420/ad2d4828-d780-4988-a6d8-0af51868d61e)
-![image](https://github.com/Sambhav10/Portfolio/assets/85670420/cf30cd3e-df3a-4ccd-a80f-b3aa39641d1f)
-![image](https://github.com/Sambhav10/Portfolio/assets/85670420/78c5a118-7b79-43f3-b3fc-17c1c4165346)
+![Screenshot 2023-05-17 121406](https://github.com/Sambhav10/Portfolio/assets/85670420/c0dd832a-6e17-4b92-b2ea-5fe619ecc660)
+![Screenshot 2023-05-17 121406](https://github.com/Sambhav10/Portfolio/assets/85670420/89d0e16f-1406-4f19-86cb-8d5b0818d60e)
+![Screenshot 2023-05-17 121406](https://github.com/Sambhav10/Portfolio/assets/85670420/4b08f0db-b61f-4e64-a1c2-ef9138bf00b9)
+![Screenshot 2023-05-17 121427](https://github.com/Sambhav10/Portfolio/assets/85670420/c5d62aa2-3501-4adf-a5af-728feb08ff3f)
